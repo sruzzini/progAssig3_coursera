@@ -17,138 +17,138 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 =========
 
 subject : *int* <br />
-	</t>The number indentifier for a particular subject in the study corresponding to the measurements in the row<br />
+	The number indentifier for a particular subject in the study corresponding to the measurements in the row<br /><br />
 activity : *chr*<br />
-	The activity corresponding to the measurements in the row<br />
+	The activity corresponding to the measurements in the row<br /><br />
 Avg_tBodyAcc_XMean : *numeric*<br />
-	Average of all body acceleration means for the given subject and activity in the X plane<br />
+	Average of all body acceleration means for the given subject and activity in the X plane<br /><br />
 Avg_tBodyAcc_YMean : *numeric*<br />
-	Average of all body acceleration means for the given subject and activity in the Y plane<br />
+	Average of all body acceleration means for the given subject and activity in the Y plane<br /><br />
 Avg_tBodyAcc_ZMean : *numeric*<br />
-	Average of all body acceleration means for the given subject and activity in the Z plane<br />
+	Average of all body acceleration means for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyAcc_XStd : *numeric*<br />
-	Average of all body acceleration standard deviations for the given subject and activity in the X plane<br />
+	Average of all body acceleration standard deviations for the given subject and activity in the X plane<br /><br />
 Avg_tBodyAcc_YStd : *numeric*<br />
-	Average of all body acceleration standard deviations for the given subject and activity in the Y plane<br />
+	Average of all body acceleration standard deviations for the given subject and activity in the Y plane<br /><br />
 Avg_tBodyAcc_ZStd : *numeric*<br />
-	Average of all body acceleration standard deviations for the given subject and activity in the Z plane<br />
+	Average of all body acceleration standard deviations for the given subject and activity in the Z plane<br /><br />
 Avg_tGravityAcc_XMean : *numeric*<br />
-	Average of all gravity acceleration means for the given subject and activity in the X plane<br />
+	Average of all gravity acceleration means for the given subject and activity in the X plane<br /><br />
 Avg_tGravityAcc_YMean : *numeric*<br />
-	Average of all gravity acceleration means for the given subject and activity in the Y plane<br />
+	Average of all gravity acceleration means for the given subject and activity in the Y plane<br /><br />
 Avg_tGravityAcc_ZMean : *numeric*<br />
-	Average of all gravity acceleration means for the given subject and activity in the Z plane<br />
+	Average of all gravity acceleration means for the given subject and activity in the Z plane<br /><br />
 Avg_tGravityAcc_XStd : *numeric*<br />
-	Average of all gravity acceleration standard deviations for the given subject and activity in the X plane<br />
+	Average of all gravity acceleration standard deviations for the given subject and activity in the X plane<br /><br />
 Avg_tGravityAcc_YStd : *numeric*<br />
-	Average of all gravity acceleration standard deviations for the given subject and activity in the Y plane<br />
+	Average of all gravity acceleration standard deviations for the given subject and activity in the Y plane<br /><br />
 Avg_tGravityAcc_ZStd : *numeric*<br />
-	Average of all gravity acceleration standard deviations for the given subject and activity in the Z plane<br />
+	Average of all gravity acceleration standard deviations for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyAccJerk_XMean : *numeric*<br />
-	Average of all body acceleration jerk means for the given subject and activity in the X plane<br />
+	Average of all body acceleration jerk means for the given subject and activity in the X plane<br /><br />
 Avg_tBodyAccJerk_YMean : *numeric*<br />
-	Average of all body acceleration jerk means for the given subject and activity in the Y plane<br />
+	Average of all body acceleration jerk means for the given subject and activity in the Y plane<br /><br />
 Avg_tBodyAccJerk_ZMean : *numeric*<br />
-	Average of all body acceleration jerk means for the given subject and activity in the Z plane<br />
+	Average of all body acceleration jerk means for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyAccJerk_XStd : *numeric*<br />
-	Average of all body acceleration jerk standard deviations for the given subject and activity in the X plane<br />
+	Average of all body acceleration jerk standard deviations for the given subject and activity in the X plane<br /><br />
 Avg_tBodyAccJerk_YStd : *numeric*<br />
-	Average of all body acceleration jerk standard deviations for the given subject and activity in the Y plane<br />
+	Average of all body acceleration jerk standard deviations for the given subject and activity in the Y plane<br /><br />
 Avg_tBodyAccJerk_ZStd : *numeric*<br />
-	Average of all body acceleration jerk standard deviations for the given subject and activity in the Z plane<br />
+	Average of all body acceleration jerk standard deviations for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyGyro_XMean : *numeric*<br />
-	Average of all body gyroscope means for the given subject and activity in the X plane<br />
+	Average of all body gyroscope means for the given subject and activity in the X plane<br /><br />
 Avg_tBodyGyro_YMean : *numeric*<br />
-	Average of all body gyroscope means for the given subject and activity in the Y plane<br />
+	Average of all body gyroscope means for the given subject and activity in the Y plane<br /><br />
 Avg_tBodyGyro_ZMean : *numeric*<br />
-	Average of all body gyroscope means for the given subject and activity in the Z plane<br />
+	Average of all body gyroscope means for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyGyro_XStd : *numeric*<br />
-	Average of all body gyroscope standard deviations for the given subject and activity in the X plane<br />
+	Average of all body gyroscope standard deviations for the given subject and activity in the X plane<br /><br />
 Avg_tBodyGyro_YStd : *numeric*<br />
-	Average of all body gyroscope standard deviations for the given subject and activity in the Y plane<br />
+	Average of all body gyroscope standard deviations for the given subject and activity in the Y plane<br /><br />
 Avg_tBodyGyro_ZStd : *numeric*<br />
-	Average of all body gyroscope standard deviations for the given subject and activity in the Z plane<br />
+	Average of all body gyroscope standard deviations for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyGyroJerk_XMean : *numeric*<br />
-	Average of all body gyroscope jerk means for the given subject and activity in the X plane<br />
+	Average of all body gyroscope jerk means for the given subject and activity in the X plane<br /><br />
 Avg_tBodyGyroJerk_YMean : *numeric*<br />
-	Average of all body gyroscope jerk means for the given subject and activity in the Z plane<br />
+	Average of all body gyroscope jerk means for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyGyroJerk_ZMean : *numeric*<br />
-	Average of all body gyroscope jerk means for the given subject and activity in the Z plane<br />
+	Average of all body gyroscope jerk means for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyGyroJerk_XStd : *numeric*<br />
-	Average of all body gyroscope jerk standard deviations for the given subject and activity in the X plane<br />
+	Average of all body gyroscope jerk standard deviations for the given subject and activity in the X plane<br /><br />
 Avg_tBodyGyroJerk_YStd : *numeric*<br />
-	Average of all body gyroscope jerk standard deviations for the given subject and activity in the Z plane<br />
+	Average of all body gyroscope jerk standard deviations for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyGyroJerk_ZStd : *numeric*<br />
-	Average of all body gyroscope jerk standard deviations for the given subject and activity in the Z plane<br />
+	Average of all body gyroscope jerk standard deviations for the given subject and activity in the Z plane<br /><br />
 Avg_tBodyAccMag_Mean : *numeric*<br />
-	Average of all body acceleration magnitude means for the given subject and activity<br />
+	Average of all body acceleration magnitude means for the given subject and activity<br /><br />
 Avg_tBodyAccMag_Std : *numeric*<br />
-	Average of all body acceleration magnitude standard deviations for the given subject and activity<br />
+	Average of all body acceleration magnitude standard deviations for the given subject and activity<br /><br />
 Avg_tGravityAccMag_Mean : *numeric*<br />
-	Average of all gravity acceleration magnitude means for the given subject and activity<br />
+	Average of all gravity acceleration magnitude means for the given subject and activity<br /><br />
 Avg_tGravityAccMag_Std : *numeric*<br />
-	Average of all gravity acceleration magnitude standard deviations for the given subject and activity<br />
+	Average of all gravity acceleration magnitude standard deviations for the given subject and activity<br /><br />
 Avg_tBodyAccJerkMag_Mean : *numeric*<br />
-	Average of all body acceleration jerk magnitude means for the given subject and activity<br />
+	Average of all body acceleration jerk magnitude means for the given subject and activity<br /><br />
 Avg_tBodyAccJerkMag_Std : *numeric*<br />
-	Average of all body acceleration jerk magnitude standard deviations for the given subject and activity<br />
+	Average of all body acceleration jerk magnitude standard deviations for the given subject and activity<br /><br />
 Avg_tBodyGyroMag_Mean : *numeric*<br />
-	Average of all body gyroscope magnitude means for the given subject and activity<br />
+	Average of all body gyroscope magnitude means for the given subject and activity<br /><br />
 Avg_tBodyGyroMag_Std : *numeric*<br />
-	Average of all body gyroscope magnitude standard deviations for the given subject and activity<br />
+	Average of all body gyroscope magnitude standard deviations for the given subject and activity<br /><br />
 Avg_tBodyGyroJerkMag_Mean : *numeric*<br />
-	Average of all body gyroscope jerk magnitude means for the given subject and activity<br />
+	Average of all body gyroscope jerk magnitude means for the given subject and activity<br /><br />
 Avg_tBodyGyroJerkMag_Std : *numeric*<br />
-	Average of all body gyroscope jerk magnitude standard deviations for the given subject and activity<br />
+	Average of all body gyroscope jerk magnitude standard deviations for the given subject and activity<br /><br />
 Avg_fBodyAcc_XMean : *numeric*<br />
-	Average of all body acceleration means for the given subject and activity in the X plane<br />
+	Average of all body acceleration means for the given subject and activity in the X plane<br /><br />
 Avg_fBodyAcc_YMean : *numeric*<br />
-	Average of all body acceleration means for the given subject and activity in the Y plane<br />
+	Average of all body acceleration means for the given subject and activity in the Y plane<br /><br />
 Avg_fBodyAcc_ZMean : *numeric*<br />
-	Average of all body acceleration means for the given subject and activity in the Z plane<br />
+	Average of all body acceleration means for the given subject and activity in the Z plane<br /><br />
 Avg_fBodyAcc_XStd : *numeric*<br />
-	Average of all body acceleration standard deviations for the given subject and activity in the X plane<br />
+	Average of all body acceleration standard deviations for the given subject and activity in the X plane<br /><br />
 Avg_fBodyAcc_YStd : *numeric*<br />
-	Average of all body acceleration standard deviations for the given subject and activity in the Y plane<br />
+	Average of all body acceleration standard deviations for the given subject and activity in the Y plane<br /><br />
 Avg_fBodyAcc_ZStd : *numeric*<br />
-	Average of all body acceleration standard deviations for the given subject and activity in the Z plane<br />
+	Average of all body acceleration standard deviations for the given subject and activity in the Z plane<br /><br />
 Avg_fBodyAccJerk_XMean : *numeric*<br />
-	Average of all body acceleration jerk means for the given subject and activity in the X plane<br />
+	Average of all body acceleration jerk means for the given subject and activity in the X plane<br /><br />
 Avg_fBodyAccJerk_YMean : *numeric*<br />
-	Average of all body acceleration jerk means for the given subject and activity in the Y plane<br />
+	Average of all body acceleration jerk means for the given subject and activity in the Y plane<br /><br />
 Avg_fBodyAccJerk_ZMean : *numeric*<br />
-	Average of all body acceleration jerk means for the given subject and activity in the Z plane<br />
+	Average of all body acceleration jerk means for the given subject and activity in the Z plane<br /><br />
 Avg_fBodyAccJerk_XStd : *numeric*<br />
-	Average of all body acceleration jerk standard deviations for the given subject and activity in the X plane<br />
+	Average of all body acceleration jerk standard deviations for the given subject and activity in the X plane<br /><br />
 Avg_fBodyAccJerk_YStd : *numeric*<br />
-	Average of all body acceleration jerk standard deviations for the given subject and activity in the Y plane<br />
+	Average of all body acceleration jerk standard deviations for the given subject and activity in the Y plane<br /><br />
 Avg_fBodyAccJerk_ZStd : *numeric*<br />
-	Average of all body acceleration jerk standard deviations for the given subject and activity in the Z plane<br />
+	Average of all body acceleration jerk standard deviations for the given subject and activity in the Z plane<br /><br />
 Avg_fBodyGyro_XMean : *numeric*<br />
-	Average of all body gyroscope means for the given subject and activity in the X plane<br />
+	Average of all body gyroscope means for the given subject and activity in the X plane<br /><br />
 Avg_fBodyGyro_YMean : *numeric*<br />
-	Average of all body gyroscope means for the given subject and activity in the Y plane<br />
+	Average of all body gyroscope means for the given subject and activity in the Y plane<br /><br />
 Avg_fBodyGyro_ZMean : *numeric*<br />
-	Average of all body gyroscope means for the given subject and activity in the Z plane<br />
+	Average of all body gyroscope means for the given subject and activity in the Z plane<br /><br />
 Avg_fBodyGyro_XStd : *numeric*<br />
-	Average of all body gyroscope standard deviations for the given subject and activity in the X plane<br />
+	Average of all body gyroscope standard deviations for the given subject and activity in the X plane<br /><br />
 Avg_fBodyGyro_YStd : *numeric*<br />
-	Average of all body gyroscope standard deviations for the given subject and activity in the Y plane<br />
+	Average of all body gyroscope standard deviations for the given subject and activity in the Y plane<br /><br />
 Avg_fBodyGyro_ZStd : *numeric*<br />
-	Average of all body gyroscope standard deviations for the given subject and activity in the Z plane<br />
+	Average of all body gyroscope standard deviations for the given subject and activity in the Z plane<br /><br />
 Avg_fBodyAccMag_Mean : *numeric*<br />
-	Average of all body acceleration magnitude means for the given subject and activity<br />
+	Average of all body acceleration magnitude means for the given subject and activity<br /><br />
 Avg_fBodyAccMag_Std : *numeric*<br />
-	Average of all body acceleration magnitude standard deviations for the given subject and activity<br />
+	Average of all body acceleration magnitude standard deviations for the given subject and activity<br /><br />
 Avg_fBodyAccJerkMag_Mean : *numeric*<br />
-	Average of all body acceleration jerk magnitude means for the given subject and activity<br />
+	Average of all body acceleration jerk magnitude means for the given subject and activity<br /><br />
 Avg_fBodyAccJerkMag_Std : *numeric*<br />
-	Average of all body acceleration jerk magnitude standard deviations for the given subject and activity<br />
+	Average of all body acceleration jerk magnitude standard deviations for the given subject and activity<br /><br />
 Avg_fBodyGyroMag_Mean : *numeric*<br />
-	Average of all body gyroscope magnitude means for the given subject and activity<br />
+	Average of all body gyroscope magnitude means for the given subject and activity<br /><br />
 Avg_fBodyGyroMag_Std : *numeric*<br />
-	Average of all body gyroscope magnitude standard deviations for the given subject and activity<br />
+	Average of all body gyroscope magnitude standard deviations for the given subject and activity<br /><br />
 Avg_fBodyGyroJerMag_Mean : *numeric*<br />
-	Average of all body gyroscope jerk magnitude means for the given subject and activity<br />
+	Average of all body gyroscope jerk magnitude means for the given subject and activity<br /><br />
 Avg_fBodyGyroJerkMag_Std : *numeric*<br />
-	Average of all body gyroscope jerk magnitude standard deviations for the given subject and activity<br />
+	Average of all body gyroscope jerk magnitude standard deviations for the given subject and activity<br /><br />
