@@ -142,5 +142,4 @@ finalTidy2 <- cbind(subs, acs, finalTidy2);
 colnames(finalTidy2) <- colHeaders2;
 
 ##write out the data sets to 2 separate files
-write.table(finalTidy, "tidy_dataset_1.txt", row.names=FALSE);
 write.table(finalTidy2, "tidy_dataset_2.txt", row.names=FALSE);
